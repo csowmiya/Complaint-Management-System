@@ -1,4 +1,4 @@
-package com.utsav.cms.controller;
+package com.cms.controller;
 
 import java.util.List;
 
