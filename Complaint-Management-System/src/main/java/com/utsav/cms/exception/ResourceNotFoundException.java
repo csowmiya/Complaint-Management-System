@@ -1,4 +1,4 @@
-package com.utsav.cms.exception;
+package com.cms.exception;
 
 public class ResourceNotFoundException extends RuntimeException{
 
