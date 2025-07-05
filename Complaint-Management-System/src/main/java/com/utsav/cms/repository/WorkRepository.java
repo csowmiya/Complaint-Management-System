@@ -1,4 +1,4 @@
-package com.utsav.cms.repository;
+package com.cms.repository;
 
 import java.util.List;
 
@@ -6,8 +6,8 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
 
-import com.utsav.cms.model_bean.User;
-import com.utsav.cms.model_bean.Work;
+import com.cms.model_bean.User;
+import com.cms.model_bean.Work;
 
 import jakarta.transaction.Transactional;
 
