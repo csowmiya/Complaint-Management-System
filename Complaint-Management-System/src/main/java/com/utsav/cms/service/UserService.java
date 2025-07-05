@@ -1,8 +1,8 @@
-package com.utsav.cms.service;
+package com.cms.service;
 
 import java.util.List;
 
-import com.utsav.cms.model_bean.User;
+import com.cms.model_bean.User;
 
 public interface UserService {
 	User saveUser(User user);
