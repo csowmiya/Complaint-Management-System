@@ -2,8 +2,8 @@ package com.cms.service;
 
 import java.util.List;
 
-import com.utsav.cms.model_bean.User;
-import com.utsav.cms.model_bean.Work;
+import com.cms.model_bean.User;
+import com.cms.model_bean.Work;
 
 public interface WorkService {
 	Work saveWork(Work work);
